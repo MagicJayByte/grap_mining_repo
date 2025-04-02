@@ -1,1 +1,1 @@
-# grap_mining_repo
+ML graph mining repository for graph_mining class
